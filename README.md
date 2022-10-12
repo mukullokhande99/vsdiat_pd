@@ -17,4 +17,7 @@ Basic scren
 ![image](https://user-images.githubusercontent.com/36757243/195301152-e8efdec6-8f89-4110-859c-b430c8156c23.png)
 
 
+Making devices and params 
 ![image](https://user-images.githubusercontent.com/36757243/195306318-7d84dd5e-fcce-4ed8-a30e-1b45c0a5d972.png)
+
+![image](https://user-images.githubusercontent.com/36757243/195306661-51edb10d-226b-4a9d-81ca-c6cb079ef4e7.png)
