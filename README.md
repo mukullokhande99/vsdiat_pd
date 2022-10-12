@@ -88,4 +88,9 @@ netlist
 However, due to certain mismatch simulation results I was unable to reach simulation results.
 
 
+## 7. Layout
+
+![image](https://user-images.githubusercontent.com/36757243/195389371-83a615e4-dee0-41b1-b9c3-9f1db59ddb3f.png)
+
+
 
