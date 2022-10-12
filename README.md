@@ -27,3 +27,15 @@ Making devices and params
 Inverter schematic
 
 ![image](https://user-images.githubusercontent.com/36757243/195315676-dba759ca-232d-4f17-ad8f-2bc6cadbe13f.png)
+
+NFET
+L=0.18
+W=4.5
+nf=3
+
+PFET
+L=0.18
+W=3
+nf=3
+
+Creating symbol for test becnh
