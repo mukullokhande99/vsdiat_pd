@@ -6,7 +6,7 @@ Instructor: Tim Edwards
 (Focused on DRC/LVS using opensource technology Skywater 130nm)
 
 
-#Day1: 
+# Day1: 
 
 Using Google Skywater 130 PDK: Digital Standard cells, Primitives, I/O cells.
 
@@ -29,7 +29,7 @@ Project----> xschem/xschemrc
 
 *Inverter*
 
-##1. Opening xschem
+## 1. Opening xschem
 
 
 ![image](https://user-images.githubusercontent.com/36757243/195299034-6559a827-a001-465b-99f5-297073f0a62f.png)
@@ -39,7 +39,7 @@ Default screen
 Helpful resource: https://xschem.sourceforge.io/stefan/xschem_man/xschem_man.html
 
 
-##2. Opening magic
+## 2. Opening magic
 ![image](https://user-images.githubusercontent.com/36757243/195300902-db866275-5871-4239-a4fe-4ac80def45cb.png)
 Basic scren
 ![image](https://user-images.githubusercontent.com/36757243/195301035-ec60c19a-8351-447b-be1b-b6220f14c6c2.png)
@@ -49,14 +49,14 @@ Basic scren
 Helpful resource: http://opencircuitdesign.com/magic/tutorials/
 
 
-##3. Making devices and params 
+## 3. Making devices and params 
 ![image](https://user-images.githubusercontent.com/36757243/195306318-7d84dd5e-fcce-4ed8-a30e-1b45c0a5d972.png)
 
 ![image](https://user-images.githubusercontent.com/36757243/195306661-51edb10d-226b-4a9d-81ca-c6cb079ef4e7.png)
 
 
 
-##4. Inverter schematic
+## 4. Inverter schematic
 ![image](https://user-images.githubusercontent.com/36757243/195315676-dba759ca-232d-4f17-ad8f-2bc6cadbe13f.png)
 
 NFET
@@ -69,7 +69,7 @@ L=0.18
 W=3
 nf=3
 
-##5.Creating symbol to test with interfacing for test bench
+## 5.Creating symbol to test with interfacing for test bench
 
 ![image](https://user-images.githubusercontent.com/36757243/195323911-6d523996-ca63-4e77-9d1f-7c284edcd5f6.png)
 
@@ -79,7 +79,7 @@ Simulation corner: "tt"
 
 ![image](https://user-images.githubusercontent.com/36757243/195360404-c086a4b2-e19a-4cbf-a6ab-7611d1a72cb4.png)
 
-##6.Simulation:
+## 6.Simulation:
 netlist
 ![image](https://user-images.githubusercontent.com/36757243/195360510-58951571-d392-42b0-b05a-1da2f582af2b.png)
 ![image](https://user-images.githubusercontent.com/36757243/195361916-dd9780f1-b879-419b-8329-7222476291c1.png)
