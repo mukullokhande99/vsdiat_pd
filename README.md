@@ -10,7 +10,7 @@ Instructor: Tim Edwards
 
 Using Google Skywater 130 PDK: Digital Standard cells, Primitives, I/O cells.
 
-Clone the repository git clone https://github.com/RTimothyEdwards/open_pdks
+> Clone the repository git clone https://github.com/RTimothyEdwards/open_pdks
 Run cd open_pdks
 Run ./configure --enable-sky130-pdk
 Run make
