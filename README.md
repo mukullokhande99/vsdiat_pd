@@ -21,3 +21,9 @@ Making devices and params
 ![image](https://user-images.githubusercontent.com/36757243/195306318-7d84dd5e-fcce-4ed8-a30e-1b45c0a5d972.png)
 
 ![image](https://user-images.githubusercontent.com/36757243/195306661-51edb10d-226b-4a9d-81ca-c6cb079ef4e7.png)
+
+
+
+Inverter schematic
+
+![image](https://user-images.githubusercontent.com/36757243/195315676-dba759ca-232d-4f17-ad8f-2bc6cadbe13f.png)
