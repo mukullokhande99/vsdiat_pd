@@ -42,3 +42,18 @@ Creating symbol
 
 ![image](https://user-images.githubusercontent.com/36757243/195323911-6d523996-ca63-4e77-9d1f-7c284edcd5f6.png)
 
+
+symbol powered with PWL(0,0,20n,0,900n,1.8) and vdd 1.8
+
+simulation corner
+"tt"
+
+
+![image](https://user-images.githubusercontent.com/36757243/195360404-c086a4b2-e19a-4cbf-a6ab-7611d1a72cb4.png)
+
+Simulation:
+netlist
+![image](https://user-images.githubusercontent.com/36757243/195360510-58951571-d392-42b0-b05a-1da2f582af2b.png)
+
+
+
