@@ -55,5 +55,6 @@ Simulation:
 netlist
 ![image](https://user-images.githubusercontent.com/36757243/195360510-58951571-d392-42b0-b05a-1da2f582af2b.png)
 
+![image](https://user-images.githubusercontent.com/36757243/195361916-dd9780f1-b879-419b-8329-7222476291c1.png)
 
-
+![image](https://user-images.githubusercontent.com/36757243/195361986-1cfcd7e2-48cc-434c-b105-9e067a233658.png)
