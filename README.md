@@ -93,6 +93,12 @@ However, due to certain mismatch simulation results I was unable to reach simula
 ![image](https://user-images.githubusercontent.com/36757243/195389371-83a615e4-dee0-41b1-b9c3-9f1db59ddb3f.png)
 
 
+Writing files from magic to local dir
 ![image](https://user-images.githubusercontent.com/36757243/195565431-b8dfc974-4de5-4c0d-9787-02567e059216.png)
+![image](https://user-images.githubusercontent.com/36757243/195565803-a4f06b62-7f2c-4c08-bfb8-dd91ba1cd770.png)
+
+
+## 8. LVS
+
 
 
