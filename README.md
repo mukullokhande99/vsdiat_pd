@@ -112,6 +112,18 @@ Thank You ![image](https://user-images.githubusercontent.com/36757243/195570789-
 
 
 
+# Day2: 
+
+## 1. Formats
+#### a. GDS-II Format
+
+#### b. CAF Format
+
+Masks, Interconnect, Layer:purpose pair
+
+#### c. Binary(ASCII converted) format
+
+#### d. OASIS
 
 
 
