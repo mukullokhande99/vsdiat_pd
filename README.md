@@ -106,12 +106,9 @@ Writing files from magic to local dir
 Revalidate circuit after parasitic Capacitances.
 
 
-Thank You 
-      
-      
-     https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white 
-     
-     https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white
+Thank You ![image](https://user-images.githubusercontent.com/36757243/195570789-f70a3b13-f207-4ed7-b30c-8bd4a01cc2c4.png)
+![image](https://user-images.githubusercontent.com/36757243/195570874-57a1dbd9-c358-44be-8202-607754a9cd2e.png)
+
 
 
 
