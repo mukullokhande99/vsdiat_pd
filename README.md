@@ -131,3 +131,4 @@ Masks, Interconnect, Layer:purpose pair
 Layout(mag file) ---> Intermediate(.ext file) ---> Netlist(.spice file) ---> Simulate (ngspice)
 
 Setting Testbench : Circuit, stimulus, simulation corner, Subckt netlist and analysis block to be declared.
+
