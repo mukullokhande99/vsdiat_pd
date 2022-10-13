@@ -2,8 +2,8 @@
 Physical Verification by Sky130 PDKs
 
 Mentorship: Kunal Ghosh
-Instructor: Tim Edwards
-(Focused on DRC/LVS using opensource technology Skywater 130nm)
+
+Instructor: Tim Edwards (Focused on DRC/LVS using opensource technology Skywater 130nm)
 
 
 # Day1: 
@@ -86,6 +86,7 @@ netlist
 ![image](https://user-images.githubusercontent.com/36757243/195361986-1cfcd7e2-48cc-434c-b105-9e067a233658.png)
 
 However, due to certain mismatch simulation results I was unable to reach simulation results.
+![image](https://user-images.githubusercontent.com/36757243/195567901-7085ec61-5b7f-4c41-a71b-940b0b7f7c48.png)
 
 
 ## 7. Layout
@@ -99,6 +100,21 @@ Writing files from magic to local dir
 
 
 ## 8. LVS
+
+
+![image](https://user-images.githubusercontent.com/36757243/195567776-35b70020-0dd1-4dfd-9281-6e81dff9ca9f.png)
+Revalidate circuit after parasitic Capacitances.
+
+
+Thank You 
+      
+      
+     https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white 
+     
+     https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white
+
+
+
 
 
 
